@@ -1,0 +1,6 @@
+# Временные и резервные файлы AutoCAD
+*.bak
+*.dwl
+*.dwl2
+*.sv$
+plot.log
