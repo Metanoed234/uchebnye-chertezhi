@@ -11,6 +11,7 @@
 | №5 | Черчение линий методом наращивания | [Cherchenie_liniy_5.dwg](Cherchenie_liniy_5.dwg) |
 | №6 | Линейные знаки | [Lineynye_znaki_6.dwg](Lineynye_znaki_6.dwg) |
 | №7 | Угодья и растительность | [Ugodya_i_rastitelnost_7.dwg](Ugodya_i_rastitelnost_7.dwg) |
+| №8 | Элементы плана теодолитной съемки 1:5000 | [Elementy_plana_8.dwg](Elementy_plana_8.dwg) |
 
 ## Как открыть
 
